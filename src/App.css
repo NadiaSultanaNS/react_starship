@@ -33,3 +33,7 @@ nav{
   background-color: black ;
 }
 
+.gitLink{
+  color: black;
+  text-decoration: underline;
+}
